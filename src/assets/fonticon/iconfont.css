@@ -1,0 +1,34 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1603685936979'); /* IE9 */
+  src: url('iconfont.eot?t=1603685936979#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAOcAAsAAAAAB6gAAANQAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDMgqCOIIrATYCJAMUCwwABCAFhG0HVhvFBsguMYVrB5KFOcO4zKQgAeC+4cufRQDZVdU9s7gXEdlMlaRUCDH9S38n5zIdAKnM8ZMaMKh8m6T/xUvTIShkvZubnpwnzcIB2yUCVGwDLlqbS3Prs5rEzL9Z9/85XNp8Htj8luUy96QAE8yyMYa1KdEOFG/QXcTEiEvnCSihjjxC3/4tPSBMCkwLCEsXUQTCLKV0JDPIC7I9a1PhpIx8PBSvcYL/ffirQ8gTZRJg7sj5tRKo+JF7YjJXwFSqtms/PaJNJGgFSAmre41LBcpgK4FKFIOD9ASUkBfFvXpV18nEQgHNBuagBBTa4x8vFQlZXnop0NMNpfzIYQoJP6pTCPzoJDAumuiGRDyXmRIyZSRgLyBuxIUBfiNWKFOzkrDlcBUi7R7en0+lB0eS8d7OXfHF+Nsvh82jd897zj0/bD18GXox/tmzsTufD6Przt4ad6Rk9IM7dX6x5uXLCd2458/H8csaOaGg3lmJkRWmHzuS9Fap+V2MN0J4VD/FveWvP736PGdse9biic2trJ4O8epO7+5g/uxXH7sxQD1zUo/+M3dPCuqgMvtLy8vieKF+SJ/Q9/+u3UDh/PU/dWjMGFowLmhHTsrR2WfllKDqnTw/qOZU5unj6NugT1MuADYCNyVn43DhL2mFeJGC5D6BQomeZP+k69T5d/8ZsSXFSqbg7VWjHU/4/1uQJsxnvmmRgvVL5CkYQcwtOUCVSXOBUY4uE5BRcwdz5O3X/AhrBS/7iCvPTifIq6whyqkNibxGyBTbCjJK6gRZeT2ghJbqN5dUERMopEVoYdmBoJwLiMq4AYlybpAp9hkyqniFrHIhgRLGh8Q9S2oSFpWoXo0RxxL0jkOfaOgEaXiEyOzC1FYRMzkc34eZ5fNAt8PVjNRjHbM9Flgj1MM5gYQZGqxzLsOqakCTGX4scofMuVnkdJK+DzlEQwMR+mAwhMMkkNc4yEdk0BHamYto/b4LRtlUCBtpWFD3wRiLr3vIzcE1A1kv1Gc1vMstlhGUB8cREMEYNFCdMwpTqQyQ2T/KDxNxDvIKv6mIE7Yjc4WO88XaC2RELYA9MyGGJKQhE7JKLV6EdG7Ylsz60mi0KB8xZozmS3iZHmSvwSxkfIVOZRsA') format('woff2'),
+  url('iconfont.woff?t=1603685936979') format('woff'),
+  url('iconfont.ttf?t=1603685936979') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1603685936979#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+[class^="golf"], [class*=" golf"]/*这里有空格*/
+{
+  font-family: "iconfont" !important;
+  font-size: 46px;
+  color: #434343;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.golfjiantoushang:before {
+  content: "\e619";
+}
+
+.golfai-arrow-down:before {
+  content: "\e658";
+}
+
+.golfuser:before {
+  content: "\e607";
+}
+
+.golfyonghu:before {
+  content: "\e634";
+}
+
